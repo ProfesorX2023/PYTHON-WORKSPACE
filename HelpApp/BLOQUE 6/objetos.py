@@ -1,0 +1,1 @@
+print("Aqui empezamos el estudio de la programación orientada a objetos")
